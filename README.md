@@ -6,7 +6,7 @@ PoC various file type transformation with [carbone](https://carbone.io/api-refer
 
 ### From markdown to PDF
 
-That simply does not work :D 
+That is not supporte at all, cf [documentation](https://carbone.io/documentation.html#supported-files-and-features-list)
 
 ```shell
 yarn dev:markdown
