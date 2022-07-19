@@ -2,7 +2,7 @@ import * as carbone from "carbone";
 import * as path from "path";
 import { writeFileSync } from "fs";
 
-const data = { firstName: "John", lastName: "Doe" };
+const data = { firstname: "John", lastname: "Doe" };
 
 carbone.render(
   path.join(__dirname, "templates", "template.docx"),
