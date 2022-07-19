@@ -14,6 +14,8 @@ yarn dev:markdown
 
 ### From docx to PDF
 
+You need to install [LibreOffice](https://www.libreoffice.org/) first. I did not try variable injection yet.
+
 ```shell
 yarn dev:docx
 ```
